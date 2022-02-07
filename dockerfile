@@ -8,4 +8,4 @@ RUN apt update && \
     apt install -y procps libncurses6 libprocps8 psmisc && \
     apt install -y net-tools
 
-CMD [ "bash" ]
+CMD bash
