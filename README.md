@@ -1,5 +1,5 @@
 # docker-debian-bullseye-slim-base
-Debian Buster minimal Image for Docker 
+Debian Bullseye-slim Image for Docker 
 
 ---English Version---
 
