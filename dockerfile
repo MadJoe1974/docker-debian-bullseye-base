@@ -7,3 +7,5 @@ RUN apt update && \
     apt install -y gpm sensible-utils ucf && \
     apt install -y procps libncurses6 libprocps8 psmisc && \
     apt install -y net-tools
+
+CMD [ "bash" ]
