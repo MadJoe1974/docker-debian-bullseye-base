@@ -18,7 +18,8 @@ procps<br>
 libncurses6<br>
 libprocps8<br>
 psmisc<br>
-net-tools
+net-tools<br>
+curl
 
 at the moment its still "work in Progress" !!!
 
@@ -40,6 +41,7 @@ procps<br>
 libncurses6<br>
 libprocps8<br>
 psmisc<br>
-net-tools
+net-tools<br>
+curl
 
 Derzeit ist dieser Docker noch "Work in Progress" !!!
