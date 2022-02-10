@@ -7,6 +7,5 @@ RUN apt update && \
     apt install -y gpm && \
     apt install -y procps && \
     apt install -y net-tools && \
-    apt install -y curl
-
-
+    apt install -y curl && \
+    apt install -y wget
